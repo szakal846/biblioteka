@@ -1,0 +1,28 @@
+c:\users\dell\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Project.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Project.exe
+c:\users\dell\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Project.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Project\Project\obj\Debug\MainWindow.g.cs
+c:\users\dell\documents\visual studio 2015\Projects\Project\Project\obj\Debug\App.g.cs
+c:\users\dell\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project_MarkupCompile.cache
+c:\users\dell\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project_MarkupCompile.lref
+c:\users\dell\documents\visual studio 2015\Projects\Project\Project\obj\Debug\MainWindow.baml
+c:\users\dell\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.g.resources
+c:\users\dell\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.exe
+c:\users\dell\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.pdb
+C:\cplotek\Project-master\Project\bin\Debug\Project.exe.config
+C:\cplotek\Project-master\Project\obj\Debug\Project.exe
+C:\cplotek\Project-master\Project\obj\Debug\Project.pdb
+C:\cplotek\Project-master\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\cplotek\Project-master\Project\obj\Debug\MainWindow.g.cs
+C:\cplotek\Project-master\Project\obj\Debug\App.g.cs
+C:\cplotek\Project-master\Project\obj\Debug\Project_MarkupCompile.cache
+C:\cplotek\Project-master\Project\obj\Debug\Project_MarkupCompile.lref
+C:\cplotek\Project-master\Project\bin\Debug\Project.exe
+C:\cplotek\Project-master\Project\bin\Debug\Project.pdb
+C:\cplotek\Project-master\Project\obj\Debug\MainWindow.baml
+C:\cplotek\Project-master\Project\obj\Debug\Project.g.resources
+C:\cplotek\Project-master\Project\obj\Debug\Project.Properties.Resources.resources
+C:\cplotek\Project-master\Project\obj\Debug\Project.csproj.GenerateResource.Cache
