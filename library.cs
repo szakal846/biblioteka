@@ -14,17 +14,18 @@ namespace Project
         public int Number { get; set; }
         public Types Type { get; set; }
         public string Title { get; set; }
-
+        public int Id { get; set; }
         public Book() { }
 
       
 
-        public Book(string author, int number, Types type, string title)
+        public Book(string author, int number, Types type, string title, int id)
         {
             Author = author;
             this.Number = number;
             this.Type = type;
             this.Title = title;
+            this.Id = id;
         }
 
        

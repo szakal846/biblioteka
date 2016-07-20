@@ -14,15 +14,20 @@
         <ListView Name="ListView1" Margin="5" Grid.Column="0" ItemsSource="{Binding Booklist}">
             <ListView.View>
                 <GridView>
+                    <GridViewColumn Header="Id" DisplayMemberBinding="{Binding Id}"/>
                     <GridViewColumn Header="Author" DisplayMemberBinding="{Binding Author}" />
                     <GridViewColumn Header="Title" DisplayMemberBinding="{Binding Title}" />
                     <GridViewColumn Header="Types" DisplayMemberBinding="{Binding Type}"/>
-                     <GridViewColumn Header="Number" DisplayMemberBinding="{Binding Number}"/>
+                    <GridViewColumn Header="Number" DisplayMemberBinding="{Binding Number}"/>
                 </GridView>
             </ListView.View>
         </ListView>
         <StackPanel Grid.Column="1" Margin="10,10,0,0">
             <Label Content="Library" FontSize="25" HorizontalAlignment="Center"/>
+            <StackPanel>
+                <Label Content="Id"  HorizontalAlignment="Center"/>
+                <TextBox Name="IdTextbox"/>
+            </StackPanel>
             <StackPanel>
                 <Label Content="Author"  HorizontalAlignment="Center"/>
                 <TextBox Name="AuthorTextbox"/>
@@ -32,7 +37,6 @@
                 <Label Content="Title"  HorizontalAlignment="Center"/>
                 <TextBox Name="TitleTextbox"/>
             </StackPanel>
-
             <StackPanel>
                 <Label Content="Types"  HorizontalAlignment="Center"/>
                 <ComboBox Name="TypesCombobox" />
@@ -41,7 +45,7 @@
                 <Label Content="Number"  HorizontalAlignment="Center"/>
                 <TextBox Name="NumberTextbox"/>
             </StackPanel>
-
+          
             <Button Name="AddButton" Content="Add" Margin="0,40,0,0" Click="AddButton_Click"/>
                 <Button Name="DeleteButton" Content="Delete" Click="DeleteButton_Click" />
                 <Button Name="SaveButton" Content="Save" Click="SaveButton_Click" />

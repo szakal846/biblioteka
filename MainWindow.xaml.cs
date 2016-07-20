@@ -40,11 +40,11 @@ namespace Project
            
             string author = this.AuthorTextbox.Text;
             string title = this.TitleTextbox.Text;
-
             int number = int.Parse(this.NumberTextbox.Text);
+            int id = int.Parse(this.IdTextbox.Text);
             Book.Types type = (Book.Types)Enum.Parse(typeof(Book.Types), this.TypesCombobox.Text);
 
-            Book book = new Book(author, number, type, title) ;
+            Book book = new Book(author, number, type, title, id) ;
 
 
          

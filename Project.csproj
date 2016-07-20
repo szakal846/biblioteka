@@ -63,7 +63,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="library.cs" />
+    <Compile Include="Borrows.cs" />
+    <Compile Include="Library.cs" />
     <Compile Include="Usr.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>

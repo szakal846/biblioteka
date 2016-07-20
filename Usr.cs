@@ -12,14 +12,14 @@ namespace Project
 
         public class User
         {
-            public string Name { get; set; }
-            public string LastName { get; set; }
+            private string Name { get; set; }
+            private string LastName { get; set; }
             public int Id { get; set; }
 
 
             public User() { }
 
-
+            
 
             public User(string name, int id, string lastName)
             {
